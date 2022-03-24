@@ -1,0 +1,1 @@
+from .posts_exc import NotExistentId, KeyInvalid
